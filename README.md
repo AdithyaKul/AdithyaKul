@@ -194,8 +194,8 @@ Web-based system for tracking student attendance in the college library using ba
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AdithyaKul&show_icons=true&theme=radical&hide_border=true" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=AdithyaKul&theme=radical&hide_border=true" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdithyaKul&show_icons=true&theme=radical)
+![Streak Stats](https://streak-stats.demolab.com?user=AdithyaKul&theme=radical)
 
 <br/><br/>
 
@@ -203,7 +203,7 @@ Web-based system for tracking student attendance in the college library using ba
 
 <br/><br/>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyaKul&theme=radical&hide_border=true&layout=compact" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=AdithyaKul&theme=radical&layout=compact)
 
 </div>
 
@@ -213,7 +213,7 @@ Web-based system for tracking student attendance in the college library using ba
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AdithyaKul&theme=radical&no-frame=true&column=3&margin-w=10" />
+![Trophies](https://github-profile-trophy.vercel.app?username=AdithyaKul&theme=radical&no-frame=true&column=3)
 
 
 </div>
