@@ -1,96 +1,103 @@
-
+<!-- Header -->
 <div align="center">
- 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f172a&height=300&section=header&text=Adithya%20Kulkarni&fontSize=90&animation=fadeIn&fontColor=38bdf8&desc=Building%20Digital%20Realities&descAlignY=55&descAlign=50)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,5,10&height=300&section=header&text=Adithya%20Kulkarni&fontSize=70&fontAlign=50&fontAlignY=35&desc=Architecting%20Next-Gen%20Applications&descAlign=50&descAlignY=55&descSize=25&animation=fadeIn&stroke=000000&strokeWidth=0" width="100%"/>
+</div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Flutter+Expert;Next.js+Architect;Building+RegisterYu)](https://git.io/typing-svg)
+<!-- Intro & Socials -->
+<div align="center">
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2DD4BF&center=true&vCenter=true&width=600&lines=Flutter+Expert+%7C+Mobile+App+Wizard;Next.js+Leads+%7C+Full+Stack+Developer;Building+The+RegisterYu+Platform;Crafting+Digital+Experiences" alt="Typing SVG" />
+  </a>
+
+  <p>
+    <a href="https://linkedin.com/in/adithya-kulkarni-474856226" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:contact@adithya.dev" target="_blank">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://github.com/AdithyaKul" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </p>
+
+</div>
 
 ---
 
-### 🚀 Mission Status: *Online*
+### 👨‍💻 About Me
 
-<div align="left">
- 
-```dart
-class AdithyaKulkarni extends Developer {
-  final String location = "Bengaluru, India";
-  final String education = "Sambhram Institute of Technology";
+<div align="center">
+  <table>
+    <tr>
+      <td valign="center">
+        <br>
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif" />
+      </td>
+      <td valign="center">
+        <pre lang="dart">
+// 🚀 Mission: Build Scalable Systems
+class Adithya extends Engineer {
+  String get education => "Sambhram Institute of Technology";
   
-  Map<String, dynamic> get currentFocus => {
-    "project": "RegisterYu Platform",
-    "stack": ["Flutter", "Next.js", "Supabase"],
-    "passion": "Building scalable, user-centric distributed systems",
-  };
-
-  bool get isHiring => true;
+  List<String> get currentStack => [
+    "Flutter (Cross-platform)",
+    "Next.js (Full-stack Web)",
+    "Supabase (Backend as a Service)"
+  ];
   
-  void code() {
-    while (alive) {
-      eat();
-      sleep();
-      buildAwesomeTech();
+  void dailyRoutine() {
+    while (isOpenToWork) {
+      code();
+      debug();
+      innovate();
     }
   }
 }
-```
+        </pre>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-### 🛠️ The Arsenal
-
-<div align="center">
-  
-  <!-- Mobile -->
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  
-  <!-- Web -->
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-
-  <!-- Backend / DB -->
-  <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-
-</div>
-
----
-
-### 📊 System Metrics
+### ⚡ Tech Stack
 
 <div align="center">
 
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdithyaKul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" alt="adithya's stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyaKul&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" alt="adithya's languages" />
+| Mobile Development | Web Development | Backend & Tools |
+|:---:|:---:|:---:|
+| <a href="https://flutter.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=flutter" width="48" /></a> <br> **Flutter** | <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" width="48" /></a> <br> **Next.js** | <a href="https://supabase.com/" target="_blank"><img src="https://skillicons.dev/icons?i=supabase" width="48" /></a> <br> **Supabase** |
+| <a href="https://dart.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=dart" width="48" /></a> <br> **Dart** | <a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react" width="48" /></a> <br> **React** | <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" width="48" /></a> <br> **Postgres** |
+| <a href="https://developer.android.com/" target="_blank"><img src="https://skillicons.dev/icons?i=android" width="48" /></a> <br> **Android** | <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" width="48" /></a> <br> **Tailwind** | <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="48" /></a> <br> **Git** |
+| | <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" width="48" /></a> <br> **TypeScript** | <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" width="48" /></a> <br> **Figma** |
+
 </div>
 
 <br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdithyaKul&theme=tokyonight&hide_border=true&background=00000000)
-
-</div>
-
 ---
 
-### 🧬 Contribution Graph
+### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdithyaKul&bg_color=0f172a&color=38bdf8&line=38bdf8&point=white&area=true&hide_border=true" width="100%" />
+
+<a href="http://www.github.com/AdithyaKul">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdithyaKul&show_icons=true&theme=radical&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=2dd4bf" height="150" alt="stats" />
+</a>
+<a href="http://www.github.com/AdithyaKul">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyaKul&layout=compact&theme=radical&hide_border=true&bg_color=0f172a&title_color=38bdf8" height="150" alt="langs" />
+</a>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AdithyaKul&theme=radical&hide_border=true&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="streak" />
+
 </div>
 
-<div align="center"> 
-  <a href="https://github.com/AdithyaKul">
-    <img src="https://komarev.com/ghpvc/?username=AdithyaKul&style=flat-square&color=blueviolet" alt="Profile Views" />
-  </a>
-</div>
-
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,5,10&height=100&section=footer" width="100%"/>
 </div>
