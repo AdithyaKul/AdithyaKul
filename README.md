@@ -1,10 +1,8 @@
 <div align="center">
 
-# ⚡ ADITHYA KULKARNI
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=ADITHYA%20KULKARNI&fontSize=80&fontAlignY=40&desc=Full%20Stack%20Developer%20•%20UI/UX%20Enthusiast&descSize=25&descAlignY=55&animation=fadeIn" alt="Header"/>
 
-**`Full Stack Developer • UI/UX Enthusiast`**
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&multiline=false&width=600&height=60&lines=Building+Production-Ready+Applications;Crafting+Pixel-Perfect+Interfaces;Innovating+with+AI+%26+Modern+Tech" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=700&height=80&lines=Building+Production-Ready+Applications;Crafting+Pixel-Perfect+Interfaces;Innovating+with+AI+%26+Modern+Tech" alt="Typing SVG" />
 
 </div>
 
@@ -199,8 +197,14 @@ Web-based system for tracking student attendance in the college library using ba
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AdithyaKul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AdithyaKul&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=00D9FF&fire=FF4081&currStreakLabel=FFFFFF" />
 
+<br/><br/>
+
+<!-- BIGGER CONTRIBUTION GRAPH -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AdithyaKul&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=FF4081&point=FFFFFF&height=400&area=true&custom_title=Contribution%20Activity" />
+
+<br/><br/>
+
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyaKul&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=AdithyaKul&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=FF4081&point=FFFFFF" />
 
 </div>
 
