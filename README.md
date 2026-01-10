@@ -194,27 +194,27 @@ Web-based system for tracking student attendance in the college library using ba
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AdithyaKul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AdithyaKul&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=00D9FF&fire=FF4081&currStreakLabel=FFFFFF" alt="Streak Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AdithyaKul&show_icons=true&theme=radical&hide_border=true" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=AdithyaKul&theme=radical&hide_border=true" />
 
 <br/><br/>
 
-<!-- BIGGER CONTRIBUTION GRAPH -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AdithyaKul&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=FF4081&point=FFFFFF&height=400&area=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AdithyaKul&bg_color=0d1117&color=ff4081&line=00d9ff&point=ffffff&area=true&hide_border=true" />
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyaKul&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10&card_width=800" alt="Top Languages" />
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyaKul&theme=radical&hide_border=true&layout=compact" />
 
 </div>
 
 ---
 
-## 🏆 ACHIEVEMENTS.UNLOCK( )
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AdithyaKul&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=AdithyaKul&theme=radical&no-frame=true&column=3&margin-w=10" />
+
 
 </div>
 
