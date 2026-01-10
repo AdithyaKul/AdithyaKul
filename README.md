@@ -204,7 +204,7 @@ Web-based system for tracking student attendance in the college library using ba
 
 <br/><br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyaKul&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyaKul&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" />
 
 </div>
 
@@ -214,7 +214,7 @@ Web-based system for tracking student attendance in the college library using ba
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AdithyaKul&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=AdithyaKul&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" width="100%" />
 
 </div>
 
