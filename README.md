@@ -200,23 +200,7 @@ Web-based system for tracking student attendance in the college library using ba
 </p>
 
 <p align="center">
-  <a href="https://github.com/AdithyaKul">
-    <img src="https://streak-stats.demolab.com?user=AdithyaKul&theme=radical" alt="GitHub Streak"/>
-  </a>
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdithyaKul&bg_color=0d1117&color=ff4081&line=00d9ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AdithyaKul&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
-  </a>
 </p>
 
 ---
