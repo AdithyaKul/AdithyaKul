@@ -192,31 +192,29 @@ Web-based system for tracking student attendance in the college library using ba
 
 ## 📊 GITHUB.STATS( )
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdithyaKul&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdithyaKul&show_icons=true&theme=radical)
-![Streak Stats](https://streak-stats.demolab.com?user=AdithyaKul&theme=radical)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdithyaKul&theme=radical" alt="GitHub Streak" />
+</p>
 
-<br/><br/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdithyaKul&bg_color=0d1117&color=ff4081&line=00d9ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+</p>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AdithyaKul&bg_color=0d1117&color=ff4081&line=00d9ff&point=ffffff&area=true&hide_border=true" />
-
-<br/><br/>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=AdithyaKul&theme=radical&layout=compact)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyaKul&theme=radical&layout=compact" alt="Top Languages" />
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app?username=AdithyaKul&theme=radical&no-frame=true&column=3)
-
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AdithyaKul&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
 
 ---
 
