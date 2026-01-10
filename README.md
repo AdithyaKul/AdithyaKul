@@ -1,124 +1,220 @@
 <div align="center">
- 
-  <!-- HEADER IMAGE -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Adithya%20Kulkarni&desc=Full%20Stack%20Developer%20%26%20UI/UX%20Enthusiast&fontSize=70&fontAlignY=40&descAlignY=60&animation=fadeIn" width="100%" alt="Header" />
 
-  <!-- TYPING SVG (Typography Effect) -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Building+Production+Scale+Apps;Crafting+Pixel+Perfect+UI;Innovating+with+AI+Agents" alt="Typing SVG" />
-  </a>
+<!-- ANIMATED HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20to%20my%20Digital%20Space&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
+
+<!-- TERMINAL-STYLE INTRO -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=39FF14&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Adithya;Full+Stack+Developer;UI%2FUX+Enthusiast;Building+Production+Apps" alt="Typing SVG" />
+
+<br/>
+<br/>
+
+```javascript
+const adithya = {
+    location: "Bengaluru, India",
+    role: "Full Stack Developer & UI/UX Enthusiast",
+    workingOn: ["RegisterYu", "Homewise"],
+    learning: ["Advanced Flutter", "System Design", "AI Integration"],
+    funFact: "I turn coffee into code ☕→💻"
+};
+```
 
 </div>
 
 <br/>
 
-<!-- TECH STACK -->
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&size=20&center=true&vCenter=true&width=300&lines=TECH_STACK.install( )" alt="Tech Stack" />
-</h3>
+---
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,flutter,dart,supabase,nodejs,mysql,firebase,python&perline=10&theme=dark" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,git,github,vscode,gemini,vercel,postgres&perline=10&theme=dark" />
-</div>
+## 🎯 About Me
 
-<br/>
+I'm a passionate **Full Stack Developer** with a keen eye for **UI/UX design**. I build production-ready applications that solve real-world problems, with a focus on **scalability**, **performance**, and **beautiful user experiences**.
 
-<!-- PROJECTS SHOWCASE -->
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&size=20&center=true&vCenter=true&width=300&lines=PROJECTS.showcase[ ]" alt="Projects" />
-</h3>
+- 🔭 Currently building **RegisterYu** - A campus event management platform
+- 🌱 Exploring **AI Agents** and **Generative AI**
+- 💼 Shipped **Homewise** - A production-grade property management system
+- 🎨 Love creating **pixel-perfect interfaces** with smooth animations
+- ⚡ Believe in **Clean Code** and **User-Centered Design**
 
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <br/>
-      <h2>🏠 Homewise</h2>
-      <code>Property Operating System</code>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/VITE-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-      <br/><br/>
-      <p>Production-deployed property management platform.</p>
-      <a href="https://github.com/AdithyaKul/Homewise">
-        <img src="https://img.shields.io/badge/VIEW_CODE-21262d?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-      <br/><br/>
-    </td>
-    <td width="50%" align="center">
-      <br/>
-      <h2>🎓 RegisterYu</h2>
-      <code>Campus Event SuperApp</code>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/FLUTTER-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-      <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/SUPABASE-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-      <br/><br/>
-      <p>Scalable Monorepo for university event orchestration.</p>
-      <a href="https://github.com/AdithyaKul/RegisterYu">
-         <img src="https://img.shields.io/badge/VIEW_CODE-21262d?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-      <br/><br/>
-    </td>
-  </tr>
-</table>
+---
 
-<table border="0" width="100%">
-  <tr>
-    <td width="33%" align="center">
-       <h3>🤖 Code Arena</h3>
-       <p>AI vs AI Debate</p>
-       <img src="https://img.shields.io/badge/GEN_AI-412991?style=for-the-badge&logo=google&logoColor=white" />
-       <br/><br/>
-       <a href="https://github.com/AdithyaKul/Code-Analysis-Arena">View Code</a>
-    </td>
-    <td width="33%" align="center">
-       <h3>📚 LibrarySys</h3>
-       <p>Smart Logistics</p>
-       <img src="https://img.shields.io/badge/IOT-LOG-FF8800?style=for-the-badge&logo=files&logoColor=white" />
-       <br/><br/>
-       <a href="https://github.com/AdithyaKul/Library-System">View Code</a>
-    </td>
-    <td width="33%" align="center">
-       <h3>🌐 Portfolio</h3>
-       <p>Digital Identity</p>
-       <img src="https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-       <br/><br/>
-       <a href="https://github.com/AdithyaKul/Portfolio-Adithya_Kulkarni">View Code</a>
-    </td>
-  </tr>
-</table>
+## 🛠️ Technology Stack
 
-<br/>
-
-<!-- STATS -->
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&size=20&center=true&vCenter=true&width=300&lines=GITHUB_STATS.fetch( )" alt="Stats" />
-</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdithyaKul&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyaKul&layout=compact&theme=radical" height="150" alt="Top Languages" />
-</div>
-
-<br/>
-
-<!-- CONNECT -->
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&size=20&center=true&vCenter=true&width=300&lines=CONNECT.network[ ]" alt="Connect" />
-</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/adithya-kulkarni/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:adithyakulkarni.work@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+### **Programming Languages**
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-<!-- BOTTOM IMAGE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+### **Frontend Development**
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+### **Backend & Database**
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+### **Tools & Platforms**
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏠 [Homewise](https://github.com/AdithyaKul/Homewise)
+
+**The Modern Property OS**
+
+A full-fledged, production-deployed platform for property and home management with enterprise-grade reliability.
+
+**Tech Stack:**  
+`React` `TypeScript` `Vite` `Tailwind CSS`
+
+**Highlights:**
+- ✅ Production deployed
+- ⚡ High performance & responsive
+- 🎨 Beautiful UI/UX
+- 🔒 Secure authentication
+
+[View Project →](https://github.com/AdithyaKul/Homewise)
+
+</td>
+<td width="50%">
+
+### 🎓 [RegisterYu](https://github.com/AdithyaKul/RegisterYu)
+
+**Campus Event SuperApp**
+
+Official event registration platform for Sambhram Institute of Technology. A scalable monorepo with Flutter mobile app and Next.js dashboard.
+
+**Tech Stack:**  
+`Flutter` `Next.js 16` `Supabase` `TypeScript`
+
+**Highlights:**
+- 📱 Cross-platform mobile app
+- 🖥️ Admin web dashboard
+- 🎫 Digital ticketing system
+- 📊 Real-time analytics
+
+[View Project →](https://github.com/AdithyaKul/RegisterYu)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🤖 [Code Analysis Arena](https://github.com/AdithyaKul/Code-Analysis-Arena)
+
+**AI vs AI Code Debates**
+
+An experimental platform where dual AI personas analyze and debate code quality, simulating senior developer code reviews.
+
+**Tech Stack:**  
+`Node.js` `Gemini API` `JavaScript`
+
+**Highlights:**
+- 🧠 Multi-AI architecture
+- 💬 Real-time debates
+- 📝 Detailed analysis
+
+[View Project →](https://github.com/AdithyaKul/Code-Analysis-Arena)
+
+</td>
+<td width="50%">
+
+### 📚 [Library System](https://github.com/AdithyaKul/Library-System)
+
+**Smart Attendance Tracking**
+
+Web-based system for tracking student attendance in the college library using barcode scanner integration.
+
+**Tech Stack:**  
+`JavaScript` `Excel Integration` `Hardware`
+
+**Highlights:**
+- 📊 Barcode scanning
+- 📈 Attendance analytics
+- 🔄 Excel integration
+
+[View Project →](https://github.com/AdithyaKul/Library-System)
+
+</td>
+</tr>
+
+</table>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AdithyaKul&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="Adithya's GitHub Stats"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AdithyaKul&theme=radical&hide_border=true&background=0D1117&stroke=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="Adithya's Streak Stats"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyaKul&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages"/>
+
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=AdithyaKul&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF" alt="Contribution Graph"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=AdithyaKul&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithya-kulkarni/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adithyakulkarni.work@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/AdithyaKul/Portfolio-Adithya_Kulkarni)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdithyaKul)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 📈 Profile Views
+
+![](https://komarev.com/ghpvc/?username=AdithyaKul&color=F85D7F&style=for-the-badge&label=PROFILE+VIEWS)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+</div>
