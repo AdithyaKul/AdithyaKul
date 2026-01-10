@@ -193,28 +193,40 @@ Web-based system for tracking student attendance in the college library using ba
 ## 📊 GITHUB.STATS( )
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdithyaKul&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://img.shields.io/github/followers/AdithyaKul?style=for-the-badge&logo=github&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/AdithyaKul?style=for-the-badge&logo=github&label=Stars" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=AdithyaKul&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdithyaKul&bg_color=0d1117&color=ff4081&line=00d9ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+</p>
+
+<details>
+<summary>📈 More Stats (Click to expand)</summary>
+<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdithyaKul&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdithyaKul&theme=radical" alt="GitHub Streak" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdithyaKul&bg_color=0d1117&color=ff4081&line=00d9ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyaKul&theme=radical&layout=compact" alt="Top Languages" />
 </p>
+</details>
 
 ---
 
 ## 🏆 GitHub Trophies
 
+<details>
+<summary>🎖️ View Trophies (Click to expand)</summary>
+<br/>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AdithyaKul&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
+</details>
 
 ---
 
