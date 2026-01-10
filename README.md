@@ -201,7 +201,7 @@ Web-based system for tracking student attendance in the college library using ba
 
 <p align="center">
   <a href="https://github.com/AdithyaKul">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdithyaKul&theme=radical&hide_border=false" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com?user=AdithyaKul&theme=radical" alt="GitHub Streak"/>
   </a>
 </p>
 
@@ -215,7 +215,7 @@ Web-based system for tracking student attendance in the college library using ba
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AdithyaKul&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=AdithyaKul&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
   </a>
 </p>
 
