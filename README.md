@@ -194,7 +194,7 @@ Web-based system for tracking student attendance in the college library using ba
 
 <p align="center">
   <a href="https://github.com/AdithyaKul">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AdithyaKul&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-streak-stats-eight-theta.vercel.app/?user=AdithyaKul&theme=radical"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AdithyaKul&layout=compact&langs_count=8&theme=radical"/>
   </a>
 </p>
