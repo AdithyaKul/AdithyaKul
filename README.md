@@ -1,74 +1,80 @@
-# Hi there, I'm Adithya Kul! 👋
+<div align="center">
+  <h1 style="font-size: 3em; margin-bottom: 0;">Hello, I'm Adithya Kul.</h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=500&size=22&duration=3000&pause=1000&color=333333&center=true&vCenter=true&width=600&lines=Building+Production-Ready+Web+Apps;Crafting+Native+Mobile+Experiences;Innovating+with+Agentic+AI" alt="Typing SVG" />
+  </a>
+</div>
+<br/>
 
-I'm a passionate developer building innovative solutions in **Web**, **Mobile**, and **AI**. I love creating production-ready applications that solve real-world problems.
+<!-- BENTO GRID START -->
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <!-- ROW 1: THE FLAGSHIPS -->
+  <tr>
+    <td width="50%" align="center">
+        <h2 style="margin-bottom: 5px;">🏠 Homewise</h2>
+        <p><b>The Modern Property OS</b></p>
+        <p><i>"Production-grade home management platform."</i></p>
+        <p>
+            <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+            <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+            <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+        </p>
+    </td>
+    <td width="50%" align="center">
+        <a href="https://github.com/AdithyaKul/RegisterYu"><h2 style="margin-bottom: 5px;">🎓 RegisterYu</h2></a>
+        <p><b>Campus Event SuperApp</b></p>
+        <p><i>"A Scalable Monorepo: Flutter + Next.js."</i></p>
+        <p>
+            <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+            <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+            <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+        </p>
+    </td>
+  </tr>
+</table>
 
-## 🚀 Featured Projects
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <!-- ROW 2: INNOVATION LABS -->
+  <tr>
+    <td width="33%" align="center">
+        <a href="https://github.com/AdithyaKul/Code-Analysis-Arena"><h3>🤖 Code Arena</h3></a>
+        <p>AI vs AI Debate</p>
+        <img src="https://img.shields.io/badge/GenAI-412991?style=flat-square&logo=google&logoColor=white" />
+    </td>
+    <td width="33%" align="center">
+        <a href="https://github.com/AdithyaKul/Library-System"><h3>📚 LibrarySys</h3></a>
+        <p>Smart Logistics</p>
+        <img src="https://img.shields.io/badge/Logistics-FF9900?style=flat-square" />
+    </td>
+    <td width="33%" align="center">
+        <a href="https://github.com/AdithyaKul/Portfolio-Adithya_Kulkarni"><h3>🌐 Portfolio</h3></a>
+        <p>Digital Identity</p>
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
-Here are my published and production-ready projects:
+<br/>
 
-### 🏠 Homewise
-A full-fledged, production-level deployed platform for property and home management.
-- **Status**: Production Deployed.
-- **Tech Stack**: React, TypeScript, Tailwind CSS, Vite.
-- **Highlights**: High performance, responsive design, and seamless user experience.
+<!-- SKILLS & TOOLS -->
+<div align="center">
+  <h3>🛠 The Digital Toolkit</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+    <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white" />
+  </p>
+</div>
 
-### 🎓 [RegisterYu](https://github.com/AdithyaKul/RegisterYu)
-The official event registration platform built collaboratively by the students of Sambhram Institute of Technology (SaIT).
-- **Overview**: A Monorepo containing the Flutter mobile app, Next.js web dashboard, and Supabase backend.
-- **Tech Stack**: Flutter, Next.js 16, Supabase, Tailwind CSS.
+<br/>
 
-### 🤖 [Code Analysis Arena](https://github.com/AdithyaKul/Code-Analysis-Arena)
-An AI-powered code analysis platform where dual AI personas "debate" the quality and approach of a given code snippet.
-- **Tech Stack**: JavaScript, Node.js, AI Integration.
-
-### 📚 [Library-System](https://github.com/AdithyaKul/Library-System)
-A web-based system for tracking student attendance in the college library using barcode scanners.
-- **Tech Stack**: JavaScript, Excel integration.
-
-### 🏨 [College Hostel Management System](https://github.com/AdithyaKul/College-Hostel-Management-System)
-A DBMS mini-project designed to manage hostel operations efficiently.
-- **Tech Stack**: 
-  - **Frontend**: HTML5, CSS3, Bootstrap.js
-  - **Backend**: Node.js
-  - **Database**: MySQL
-
-### 🌐 [Portfolio Website](https://github.com/AdithyaKul/Portfolio-Adithya_Kulkarni)
-My personal portfolio site showcasing my journey, skills, and projects.
-- **Tech Stack**: React, Vite, Tailwind CSS.
-
----
-
-## 🛠 Technologies & Tools
-
-**Languages**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-**Frontend**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-
-**Backend & Database**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-**AI & Cloud**  
-![Google Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat&logo=google&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
-
----
-
-### 📈 GitHub Stats
-
-![Adithya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdithyaKul&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyaKul&layout=compact&theme=radical)
+<!-- LIVE METRICS -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdithyaKul&show_icons=true&theme=transparent&hide_border=true&title_color=000&text_color=444&icon_color=000" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyaKul&layout=compact&theme=transparent&hide_border=true&title_color=000&text_color=444" height="150" alt="languages graph" />
+</div>
