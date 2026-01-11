@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=ADITHYA%20KULKARNI&fontSize=80&fontAlignY=40&desc=Full%20Stack%20Developer%20•%20UI/UX%20Enthusiast&descSize=25&descAlignY=55&animation=fadeIn" alt="Header"/>
 
@@ -16,7 +16,7 @@ const developer = {
     location: "Bengaluru, Karnataka 🇮🇳",
     role: "Full Stack Developer & UI/UX Enthusiast",
     education: "Sambhram Institute of Technology",
-    currentWork: ["RegisterYu - Campus Event Platform", "Homewise - Property Management OS"],
+    currentWork: ["RegisterYu - Campus Event Platform", "Automated Retail Infrastructure"],
     interests: ["Web Development", "Mobile Apps", "AI Integration", "Design Systems"],
     philosophy: "Clean Code. Beautiful Design. Real Impact.",
     contact: {
@@ -60,7 +60,7 @@ const developer = {
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-### 🧰 Tools & Platforms
+### ⚙️ Tools & Platforms
 <p align="center">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -87,20 +87,20 @@ const developer = {
 ### 🏠 Homewise
 <img src="https://img.shields.io/badge/STATUS-PRODUCTION-00C853?style=for-the-badge" />
 
-**Next-Gen Dropshipping & E-Commerce Suite**
+**Automated Retail Infrastructure**
 
-A high-performance e-commerce architecture designed for automated scaling. orchestates seamless product sourcing, real-time inventory synchronization, and conversion-optimized checkout flows.
+A sophisticated e-commerce operating system designed for high-scale dropshipping. Orchestrates the full retail stack—from multi-vendor inventory syncing to automated order routing and conversion-optimized funnels.
 
 **Tech Stack:**
-- React.js + Redux
-- Stripe Integrated
-- Modern Design System
+- React.js + Redux Toolkit
+- Node.js Microservices
+- Stripe & PayPal APIs
 
 **Features:**
-- 🛒 Automated Fulfillment
-- 📈 Conversion Optimized
+- 🔄 Supply Chain Sync
+- 📈 Algorithmic Sales
 - ⚡ 99/100 LH Score
-- � Global Payments
+- 🌍 Multi-Region Support
 
 <a href="https://github.com/AdithyaKul/Homewise">
 <img src="https://img.shields.io/badge/VIEW_CODE-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -178,7 +178,7 @@ Web-based system for tracking student attendance in the college library using ba
 - 📊 Barcode Scanning
 - 📈 Analytics Dashboard
 - 🔄 Auto Excel Sync
-- ⏱️ Real-time Updates
+- ⏰ Real-time Updates
 
 <a href="https://github.com/AdithyaKul/Library-System">
 <img src="https://img.shields.io/badge/VIEW_CODE-181717?style=for-the-badge&logo=github&logoColor=white" />
