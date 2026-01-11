@@ -87,20 +87,20 @@ const developer = {
 ### 🏠 Homewise
 <img src="https://img.shields.io/badge/STATUS-PRODUCTION-00C853?style=for-the-badge" />
 
-**The Modern Property Operating System**
+**Next-Gen Dropshipping & E-Commerce Suite**
 
-A full-fledged, production-deployed platform for comprehensive property and home management. Built with enterprise-grade architecture and beautiful UI.
+A high-performance e-commerce architecture designed for automated scaling. orchestates seamless product sourcing, real-time inventory synchronization, and conversion-optimized checkout flows.
 
 **Tech Stack:**
-- React.js + TypeScript
-- Vite + Tailwind CSS
+- React.js + Redux
+- Stripe Integrated
 - Modern Design System
 
 **Features:**
-- ✅ In Production
-- 🎨 Premium UI/UX
-- ⚡ High Performance
-- 🔒 Secure & Scalable
+- 🛒 Automated Fulfillment
+- 📈 Conversion Optimized
+- ⚡ 99/100 LH Score
+- � Global Payments
 
 <a href="https://github.com/AdithyaKul/Homewise">
 <img src="https://img.shields.io/badge/VIEW_CODE-181717?style=for-the-badge&logo=github&logoColor=white" />
